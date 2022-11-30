@@ -1,4 +1,4 @@
-# MinionsSpeakApp Mark6
+# MinionsSpeakApp Mark 06
 ![pc-9](https://user-images.githubusercontent.com/112760422/204732291-b4c5a1c0-98aa-447b-b8bf-1afc5952e788.png)
 
 
